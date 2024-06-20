@@ -3,7 +3,7 @@
 NAME:          JOHN KALOKI
 LOCALITY:      NGONG, KENYA
 DATE:          MAY 1,2024
-GITHUB:        ActiveElder
+GITHUB:        WebTweaks
 
 This checkers game is played on an 8x8 tile with 12 pieces on side.
 Men(the uncrowned pieces) only move and capture diagonally forward.
